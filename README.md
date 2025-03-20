@@ -11,7 +11,6 @@
 ## 📚 Education
 
 ▶ **M.Sc. in Computer Science**, Yonsei University (Aug 2024) - GPA: 4.18/4.3  
-▶ **B.Sc. in Computer Engineering**, Yonsei University Mirae Campus (Aug 2022) - GPA: 2.45/4.3  
 
 ---
 
