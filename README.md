@@ -17,10 +17,10 @@
 
 ## 💼 Work & Research Experience  
 
-▶ **DH Soft Co., Ltd. | Research Engineer (Apr 2024 - Dec 2024)**  
+▶ **DH Soft Co., Ltd. | Software Engineer (Apr 2024 - Dec 2024)**  
 
 - Designed and developed web applications based on Liferay  
-- Developed backend APIs and designed relational databases (MySQL)  
+- Developed backend and designed relational databases (MySQL)  
 - Built UI/UX for data input, retrieval, and statistical visualization (JSP & JavaScript)  
 - Implemented access control and audit trail functions for medical data security  
 - Deployed and managed the system across **4 major university hospitals**  
@@ -59,7 +59,7 @@
 
 ---
 
-### **Atopic REBA Extract Analysis System Development**  
+### **Atopy REBA Extract Analysis System Development**  
 
 - **Period:** Jan 2022 - Dec 2022  
 - **Tech Stack:** Java/JSP, OpenCV, MySQL, Liferay  
