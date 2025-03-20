@@ -28,7 +28,7 @@
 
 ## 📑 Publications & Research  
 
-▶ **Software Development for Digital Healthcare Data Collection and Management**  
+▶ **Development of software for digital healthcare data collection and management**  
 - **Author:** Moonki Seo  
 - **Institution:** Yonsei University Graduate School  
 - **Thesis Link:** [Library Link](https://library.yonsei.ac.kr/search/detail/CATTOT000002214593)  
