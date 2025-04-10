@@ -81,7 +81,3 @@
   - Deployed and maintained the **cloud-based web application across 4 university hospitals**  
 
 ---
-
-🚀 **I am passionate about software engineering, building scalable web applications, and working with data-driven solutions.**  
-
-📫 **Let's connect!** Feel free to reach out via **email or GitHub.**  
